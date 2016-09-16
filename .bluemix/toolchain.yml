@@ -2,3 +2,15 @@
 name: "Mininval Viable Toolchain"
 description: "This toolchain will be used in System Test.\nTo test it; Click CREATE."
 version: 0.1
+
+# Github repos
+sample-repo:
+  service_id: githubpublic
+  
+# Pipelines
+sample-build:
+  service_id: pipeline
+  
+#Web IDE
+webide:
+  service_id: orion
