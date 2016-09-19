@@ -1,5 +1,5 @@
 ---
-name: "Mininval Viable Toolchain"
+name: "Minimal Viable Toolchain"
 description: "This toolchain will be used in System Test.\nTo test it; Click CREATE."
 version: 0.1
 
@@ -14,3 +14,12 @@ sample-build:
 #Web IDE
 webide:
   service_id: orion
+  
+#Slack
+slack:
+  service_id: slack
+  
+#PagerDuty
+pagerduty:
+  service_id: pagerduty
+  
