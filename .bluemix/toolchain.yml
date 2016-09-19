@@ -23,3 +23,6 @@ slack:
 pagerduty:
   service_id: pagerduty
   
+#SauceLabs
+saucelabs:
+  service_id: saucelabs
