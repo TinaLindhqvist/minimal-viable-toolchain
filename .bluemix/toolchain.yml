@@ -1,6 +1,6 @@
 ---
 name: "Minimal Viable Toolchain"
-description: "This toolchain will be used in System Test.\nTo test it; Click CREATE."
+description: "This toolchain will be used in System Test.\n Click CREATE to start."
 version: 0.1
 
 # Github repos
